@@ -36,4 +36,6 @@ The application allows users to input one or more sentences and predicts whether
    - Click on the "Predict" button to see the sentiment analysis results for each sentence.
 
 ### Some screenshots
+![Alt Text](Milestone3.png)
+
 
