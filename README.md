@@ -1,10 +1,10 @@
 ---
-title: Sentiment Analysis Finetune
-emoji: 📈
-colorFrom: green
-colorTo: purple
+title: Patentdataset Finetune
+emoji: 💻
+colorFrom: pink
+colorTo: green
 sdk: streamlit
-sdk_version: 1.36.0
-app_file: finetuneapp.py
+sdk_version: 1.37.0
+app_file: app.py
 pinned: false
 ---
